@@ -90,7 +90,6 @@ kramdown:
 
 plugins:
   - jekyll-feed
-  - jekyll-environment-variables
 sass:
   sass_dir: _sass
   style: compressed
