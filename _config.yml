@@ -16,22 +16,3 @@ minimal_mistakes_skin: "default"
 author:
   name: "Wayra Liao"
   bio: "Data science, XAI, and research."
-
-# 宣告 _pages 為 collection，讓檔案會輸出
-collections:
-  pages:
-    output: true
-    permalink: /:name/
-
-# 打開導覽列（需提供 _data/navigation.yml）
-navigation:
-  header: nav_main
-
-# 預設把這個 collection 的頁面套上版型
-defaults:
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-      author_profile: true
