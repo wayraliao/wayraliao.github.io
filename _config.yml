@@ -1,48 +1,37 @@
 title: Wayra Liao
 name: Wayra Liao
-description: Portfolio & Notes
-url: "https://wayraliao.github.io"   # 你的站台根網址
-baseurl: ""                          # 個人主站留空；專案站才填 /repo-name
+description: Personal Website Test
+url: "https://wayraliao.github.io"
+baseurl: ""
 
-# 使用 Minimal Mistakes（remote_theme + 官方支援的插件）
 remote_theme: "mmistakes/minimal-mistakes@latest"
 
 plugins:
   - jekyll-remote-theme
   - jekyll-feed
+  - jekyll-include-cache
 
-# 版型外觀（皮膚）
-minimal_mistakes_skin: "default"     # 可試：air, contrast, dark, mint, neon 等
+minimal_mistakes_skin: "default"
 
-# 作者區塊（首頁/文章側欄 author_profile 會用到）
 author:
   name: "Wayra Liao"
-  avatar: "/assets/images/avatar.jpg"   # 可選；沒有就刪掉這行
   bio: "Data science, XAI, and research."
-  location: "Taipei, Taiwan"
-  links:
-    - label: "GitHub"
-      icon: "fab fa-github"
-      url: "https://github.com/wayraliao"
-    - label: "LinkedIn"
-      icon: "fab fa-linkedin"
-      url: "https://www.linkedin.com/in/your-id/"
 
-# 導覽列（可選；若不用導覽，可刪掉 nav_main 與 _data/navigation.yml）
+# 宣告 _pages 為 collection，讓檔案會輸出
+collections:
+  pages:
+    output: true
+    permalink: /:name/
+
+# 打開導覽列（需提供 _data/navigation.yml）
 navigation:
   header: nav_main
 
-# 預設 front matter（讓 page/post 自動套版型）
+# 預設把這個 collection 的頁面套上版型
 defaults:
   - scope:
       path: ""
-      type: "pages"
-    values:
-      layout: single
-      author_profile: true
-  - scope:
-      path: ""
-      type: "posts"
+      type: pages
     values:
       layout: single
       author_profile: true
