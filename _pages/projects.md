@@ -1,7 +1,7 @@
 ---
 title: "Projects"
 permalink: /projects/
-layout: single
-author_profile: true
-classes: no-pager
+layout: collection
+collection: projects
+entries_layout: grid   # 可選：grid / list / masonry
 ---
