@@ -36,6 +36,13 @@ defaults:
       layout: single
       author_profile: true
 
-# 啟用導覽列，實際項目放在 _data/navigation.yml
 navigation:
-  header: nav_main
+  header:
+    - title: "Home"
+      url: /
+    - title: "Resume"
+      url: /resume/
+    - title: "Projects"
+      url: /projects/
+    - title: "Contact"
+      url: /contact/
