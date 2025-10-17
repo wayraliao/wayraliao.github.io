@@ -18,7 +18,6 @@ author:
   name: "Wayra Liao"
   bio: "Data science, XAI, research."
 
-# Output pages from _pages/
 collections:
   pages:
     output: true
@@ -26,21 +25,23 @@ collections:
     output: true
     permalink: /projects/:title/
 
-# 讓 projects 集合的每篇自動帶上 show-pager
 defaults:
   - scope: { path: "", type: "pages" }
     values:
       layout: single
       author_profile: true
+
   - scope: { path: "", type: "posts" }
     values:
       layout: single
       author_profile: true
+      # （如未來也要讓 Blog 文章顯示 Prev/Next，就在這裡加 classes: show-pager）
+
   - scope: { path: "", type: "projects" }
     values:
-      layout: single         # 可以保留 single 版型
+      layout: single
       author_profile: true
-      classes: show-pager    # ★ 關鍵：只有 projects 內頁帶這個 class
+      classes: show-pager    # ★ 只有「專案內頁」自動開啟 Prev/Next
 
 navigation:
   header: main
