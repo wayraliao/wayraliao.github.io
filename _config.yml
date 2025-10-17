@@ -5,7 +5,7 @@ url: "https://wayraliao.github.io"
 baseurl: ""
 
 # Pin to a real tag (avoid @latest ambiguity)
-remote_theme: "mmistakes/minimal-mistakes@4.26.0"
+remote_theme: "mmistakes/minimal-mistakes"
 
 plugins:
   - jekyll-remote-theme
