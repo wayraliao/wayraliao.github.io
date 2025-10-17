@@ -4,4 +4,7 @@ permalink: /contact/
 layout: single
 author_profile: true
 ---
-Email / GitHub / LinkedIn
+
+- Email: <mailto:you@example.com>
+- GitHub: <https://github.com/wayraliao>
+- LinkedIn: <https://www.linkedin.com/in/your-id/>
