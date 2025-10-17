@@ -1,10 +1,9 @@
 ---
 title: "Sample Project"
 date: 2025-10-17
-excerpt: "短摘要：這是一個示例專案頁。"
+excerpt: "這是一個示例專案內頁。"
 header:
   image: /assets/images/projects/sample.jpg
-# 不用再寫 classes: show-pager，defaults 會自動加
+classes: show-pager   # 如果你用 CSS 方式讓專案內頁顯示 Prev/Next
 ---
-
-這裡是內容（程式碼重點、連結、心得…）。
+內容…
