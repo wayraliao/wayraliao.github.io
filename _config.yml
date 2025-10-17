@@ -4,7 +4,8 @@ description: Portfolio & Notes
 url: "https://wayraliao.github.io"
 baseurl: ""
 
-remote_theme: "mmistakes/minimal-mistakes"
+# Pin to a real tag (avoid @latest ambiguity)
+remote_theme: "mmistakes/minimal-mistakes@4.26.0"
 
 plugins:
   - jekyll-remote-theme
@@ -16,33 +17,15 @@ minimal_mistakes_skin: "default"
 author:
   name: "Wayra Liao"
   bio: "Data science, XAI, research."
-  links:
-    - label: "GitHub"
-      icon: "fab fa-github"
-      url: "https://github.com/wayraliao"
 
-# 宣告 _pages 會輸出，並套預設版型
+# Output pages from _pages/
 collections:
   pages:
     output: true
 
-defaults:
-  - scope: { path: "", type: "pages" }
-    values:
-      layout: single
-      author_profile: true
-  - scope: { path: "", type: "posts" }
-    values:
-      layout: single
-      author_profile: true
-
-navigation:
-  header:
-    - title: "Home"
-      url: /
-    - title: "Resume"
-      url: /resume/
-    - title: "Projects"
-      url: /projects/
-    - title: "Contact"
-      url: /contact/
+# Force a header nav without relying on _data/navigation.yml (diagnostic)
+header_pages:
+  - index.html
+  - _pages/resume.md
+  - _pages/projects.md
+  - _pages/contact.md

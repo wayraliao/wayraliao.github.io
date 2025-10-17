@@ -1,8 +1,7 @@
 ---
 title: "Contact"
 permalink: /contact/
+layout: single
+author_profile: true
 ---
-
-- Email: <mailto:your.name@example.com>  
-- GitHub: <https://github.com/wayraliao>  
-- LinkedIn: <https://www.linkedin.com/in/your-id/>
+Email / GitHub / LinkedIn

@@ -1,8 +1,7 @@
 ---
 title: "Projects"
 permalink: /projects/
+layout: single
+author_profile: true
 ---
-
-- **CFO Misreporting Detection** — Topic features + classifiers; AUC +8–12% vs baseline. [Code](#) · [Write-up](#)
-- **Process Mining Demo** — Event logs → bottleneck reduction. [Slides](#)
-- **XAI Sprint Notes** — Explainers & evaluation recipes. [Post](#)
+(Your project list)
