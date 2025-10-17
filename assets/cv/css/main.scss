@@ -1,9 +1,8 @@
 ---
 ---
 
-@import "minimal-mistakes/skins/default";
+@import "minimal-mistakes/skins/default"; // 或你選的皮膚名稱
 @import "minimal-mistakes";
 
-/* 隱藏帶有 no-pager 的頁面之分頁 */
-.no-pager nav.pagination,
-.no-pager .pagination { display: none !important; }
+/* 你自己的樣式覆蓋可以寫在這下方 */
+// 例如：.page__content h2 { margin-top: 2rem; }
