@@ -23,9 +23,5 @@ collections:
   pages:
     output: true
 
-# Force a header nav without relying on _data/navigation.yml (diagnostic)
-header_pages:
-  - index.html
-  - _pages/resume.md
-  - _pages/projects.md
-  - _pages/contact.md
+navigation:
+  header: main
