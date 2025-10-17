@@ -3,6 +3,7 @@ title: "Contact"
 permalink: /contact/
 layout: single
 author_profile: true
+classes: no-pager
 ---
 
 - Email: <mailto:you@example.com>

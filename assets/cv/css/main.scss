@@ -1,0 +1,8 @@
+---
+---
+
+@import "minimal-mistakes/skins/default";
+@import "minimal-mistakes";
+
+/* 在帶有 no-pager 的頁面，隱藏底部換頁 */
+.no-pager nav.pagination { display: none; }
