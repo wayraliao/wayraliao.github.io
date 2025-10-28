@@ -12,7 +12,6 @@ header:
 ---
 
 [Download PDF](/assets/cv/WeiJu_Liao_CV.pdf){: .btn .btn--primary .btn--large }
-[Contact](/contact/){: .btn }
 
 ## Education
 
@@ -22,14 +21,16 @@ header:
     <div class="edu-date">Sep 2015 – Aug 2018</div>
     <div class="edu-body">
       <p><strong>Master in Industrial Management, National Taiwan University of Science and Technology</strong> — Taipei, Taiwan</p>
-      <p>Thesis: <em>Adjacent Difference Value (ADV) Method for Dynamic Segmentation in Time Series Data Search</em> (Supervisor: Prof. Prof. Chao-Lung Yang & Prof. Cheng-Jhe Lin)</p>
-      <p>Methods/Topics: Time Series Segmentation, Dynamic Segmentation, Anomaly Detection, Dimensionality Reduction</p>
-      <p>GPA 3.8/4.0</p>
+      <ul>
+        <li>Thesis: <em>Adjacent Difference Value (ADV) Method for Dynamic Segmentation in Time Series Data Search</em> (Supervisor: Prof. Prof. Chao-Lung Yang & Prof. Cheng-Jhe Lin)</li>
+        <li>Methods/Topics: Time Series Segmentation, Dynamic Segmentation, Anomaly Detection, Dimensionality Reduction</li>
+        <li>GPA 3.8/4.0</li>
+      </ul>
     </div>
   </div>
 
   <div class="edu-item">
-    <div class="edu-date">2017–2021</div>
+    <div class="edu-date">Sep 2011 – Jun 2015</div>
     <div class="edu-body">
       <p><strong>Bachelor in Industrial and Systems Engineering, Chung Yuan Christian University</strong> — Zhongli, Taiwan</p>
       <p>Capstone Project: *Demand Forecasting and Production Planning for a Food Processing Factory* (Supervisor: Prof. Ping-Shun Chen)</p>
