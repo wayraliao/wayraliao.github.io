@@ -14,36 +14,41 @@ header:
 [Download PDF](/assets/cv/WeiJu_Liao_CV.pdf){: .btn .btn--primary .btn--large }
 [Contact](/contact/){: .btn }
 
-## Core Skills
-- **Languages/Tools:** Python (pandas, scikit-learn, spaCy), Stata, SAS, Git, Jekyll
-- **ML/NLP:** classification, topic modeling (LDA), text cleaning, model evaluation
-- **Data:** Playwright/Selenium scraping, large-scale tabular & text wrangling
-- **Other:** dashboards, reproducible pipelines, technical writing
-
-## Experience
-**Research Associate — National Taiwan University, Department of Economics**  
-*YYYY–present, Taipei*  
-- Built a text-mining pipeline for financial misreporting detection (10-K MD&A).  
-- Engineered topic features and trained classifiers (logit / random forest / SVM), improving baseline AUC by **~8–12%**.  
-- Maintained CFO-centric datasets (SEC filings, historical census); automated QA and versioning.  
-- Authored reproducible notes and documentation for team handover.
-
-## Selected Projects
-- **CFO Misreporting Detection** — Topic features + ML; pipeline from cleaning to evaluation.  
-  → Details: [/projects/](/projects/)
-- **Process Mining Demo** — From event logs to actionable bottleneck reduction.  
-- **XAI Sprint Notes** — Practical explainers and evaluation recipes.
-
 ## Education
-**M.Sc. / B.Sc.** (fill in details) — City, Years  
-Relevant coursework: ML, NLP, statistics, econometrics.
+**Master in Industrial Management, National Taiwan University of Science and Technology** — Taipei, Taiwan, Sep 2015 – Aug 2018  
+- Thesis: *Adjacent Difference Value (ADV) Method for Dynamic Segmentation in Time Series Data Search* (Supervisor: Prof. ___)  
+- Methods/Topics: NLP, Topic Modeling (LDA), Econometrics, Causal Inference  
+- Honors: GPA 3.8/4.0
 
-## Certifications
-- MIT MicroMasters (edX): ____  
-- Others: ____
+**MBachelor in Industrial and Systems Engineering, Chung Yuan Christian University** — Zhongli, Taiwan, Sep 2011 – Jun 2015  
+- Capstone Project: *Demand Forecasting and Production Planning for a Food Processing Factory* (Supervisor: Prof. ___)  
+- Methods/Topics: NLP, Topic Modeling (LDA), Econometrics, Causal Inference  
+- Honors: GPA 3.7/4.0
 
-## Awards
-- ____ (Year) — brief impact line.
+## Publications & Working Papers
+- *Title*, Authors, Venue/Year — (Working paper / Under review / Preprint).  
+  - One-line contribution/novelty.
+
+## Research Experience & Projects
+**Research Associate — National Taiwan University (Economics)** — Taipei, YYYY–present  
+- Built a text-mining pipeline for 10-K MD&A misreporting detection; **~8–12% AUC gain** vs. baseline.  
+- Large-scale CFO datasets (SEC filings, census); automated QA and reproducible workflows.  
+- Code & notes: see [/projects/](/projects/).
+
+## Methods & Tools
+- **ML/NLP:** classification, topic modeling (LDA), evaluation (AUC/PR), explainers (SHAP/LIME)  
+- **Data:** Playwright/Selenium scraping; text/table wrangling  
+- **Programming:** Python (pandas, scikit-learn, spaCy), Stata, SAS, Git
+
+## Awards & Grants
+- Scholarship/Grant — Year — brief impact.
+
+## Teaching & Service
+- TA: Course Name (Semester, Year) — duties.  
+- Service: workshop/reading group organization, reviewing (if any).
 
 ## Languages
-- Chinese (Native), English (____), German (A1/A2 …)
+Chinese (Native), English (___), German (A1/A2 …)
+
+## References
+Available upon request (2–3 academic referees can be provided).
