@@ -3,6 +3,8 @@ title: "Resume"
 permalink: /resume/
 layout: single
 author_profile: true
+toc: true
+toc_sticky: true
 classes: no-pager
 description: "Research-oriented data scientist focused on XAI, data quality, and misinformation detection."
 header:
@@ -13,39 +15,19 @@ header:
 
 ## Education
 
-<div class="edu">
+Sep 2015 – Aug 2018
+**Master in Industrial Management**
+**National Taiwan University of Science and Technology — Taipei, Taiwan**
+- Thesis: *Adjacent Difference Value (ADV) Method for Dynamic Segmentation in Time Series Data Search* (Supervisors: Prof. Chao-Lung Yang & Prof. Cheng-Jhe Lin)
+- Methods/Topics: Time Series Segmentation, Dynamic Segmentation, Anomaly Detection, Dimensionality Reduction
+- GPA 3.8/4.0
 
-  <div class="edu-item">
-    <div class="edu-date">Sep 2015 – Aug 2018</div>
-    <div class="edu-body">
-      <div class="edu-heading">
-        <p class="edu-degree"><strong>Master in Industrial Management</strong></p>
-        <p class="edu-school"><strong>National Taiwan University of Science and Technology</strong> — Taipei, Taiwan</p>
-      </div>
-      <ul>
-        <li>Thesis: <em>Adjacent Difference Value (ADV) Method for Dynamic Segmentation in Time Series Data Search</em> (Supervisors: Prof. Chao-Lung Yang & Prof. Cheng-Jhe Lin)</li>
-        <li>Methods/Topics: Time Series Segmentation, Dynamic Segmentation, Anomaly Detection, Dimensionality Reduction</li>
-        <li>GPA 3.8/4.0</li>
-      </ul>
-    </div>
-  </div>
-
-  <div class="edu-item">
-    <div class="edu-date">Sep 2011 – Jun 2015</div>
-    <div class="edu-body">
-      <div class="edu-heading">
-        <p class="edu-degree"><strong>Bachelor in Industrial and Systems Engineering</strong></p>
-        <p class="edu-school"><strong>Chung Yuan Christian University</strong> — Zhongli, Taiwan</p>
-      </div>
-      <ul>
-        <li>Capstone Project: <em>Demand Forecasting and Production Planning for a Food Processing Factory</em> (Supervisor: Prof. Ping-Shun Chen)</li>
-        <li>Relevant Coursework: Machine Learning, Statistics, Econometrics</li>
-        <li>GPA 3.7/4.0</li>
-      </ul>
-    </div>
-  </div>
-
-</div>
+Sep 2011 – Jun 2015
+**Bachelor in Industrial and Systems Engineering**
+**Chung Yuan Christian University — Zhongli, Taiwan**
+- Capstone Project: *Demand Forecasting and Production Planning for a Food Processing Factory* (Supervisor: Prof. Ping-Shun Chen)
+- Relevant Coursework: Machine Learning, Statistics, Econometrics
+- GPA 3.7/4.0
 
 ## Publications
 - *Title*, Authors, Venue/Year — (Working paper / Under review / Preprint).  

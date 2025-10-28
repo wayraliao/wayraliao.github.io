@@ -7,38 +7,4 @@
 /* 你自己的樣式覆蓋可以寫在這下方 */
 // 例如：.page__content h2 { margin-top: 2rem; }
 
-/* --- Education block (Flex version): date left, two-line heading, bullets --- */
-/* 先把舊有 .edu-* 規則清掉影響（若之前貼過 Grid 版） */
-.edu, .edu * { box-sizing: border-box; }
-.edu-item, .edu-date, .edu-body { all: unset; } /* 清除先前可能遺留的 display/grid 設定 */
-.edu { display: block; margin: 0; padding: 0; }
-.edu-item {
-  display: flex !important;
-  align-items: flex-start;
-  gap: 1.25rem;
-  margin: 1rem 0;
-}
-.edu-date {
-  flex: 0 0 150px;     /* 左欄固定寬度，避免把右欄擠壓重疊 */
-  max-width: 180px;
-  font-weight: 700;
-  line-height: 1.4;
-  white-space: nowrap;
-}
-.edu-body {
-  flex: 1 1 auto;
-  min-width: 0;        /* 允許右側收縮換行，避免溢出 */
-}
-.edu-heading p { margin: 0; line-height: 1.4; }
-.edu-degree { font-weight: 700; }
-.edu-school { margin-top: .15rem; }
-.edu-body ul { margin: .45rem 0 0 1.1rem; padding: 0; }
-.edu-body li { margin: .22rem 0; }
-.edu, .edu-body { overflow-wrap: anywhere; }
-
-/* 手機：改為直欄堆疊，完全杜絕重疊 */
-@media (max-width: 720px) {
-  .edu-item { flex-direction: column; gap: .5rem; }
-  .edu-date { flex: 0 0 auto; }
-}
 
