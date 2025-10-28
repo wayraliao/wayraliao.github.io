@@ -20,7 +20,7 @@ header:
   <div class="edu-item">
     <div class="edu-date">Sep 2015 – Aug 2018</div>
     <div class="edu-body">
-      <p><strong>Master in Industrial Management, National Taiwan University of Science and Technology</strong> — Taipei, Taiwan</p>
+      <p><strong>Master in Industrial Management</br>National Taiwan University of Science and Technology</strong> — Taipei, Taiwan</p>
       <ul>
         <li>Thesis: <em>Adjacent Difference Value (ADV) Method for Dynamic Segmentation in Time Series Data Search</em> (Supervisor: Prof. Prof. Chao-Lung Yang & Prof. Cheng-Jhe Lin)</li>
         <li>Methods/Topics: Time Series Segmentation, Dynamic Segmentation, Anomaly Detection, Dimensionality Reduction</li>
@@ -32,9 +32,11 @@ header:
   <div class="edu-item">
     <div class="edu-date">Sep 2011 – Jun 2015</div>
     <div class="edu-body">
-      <p><strong>Bachelor in Industrial and Systems Engineering, Chung Yuan Christian University</strong> — Zhongli, Taiwan</p>
-      <p>Capstone Project: *Demand Forecasting and Production Planning for a Food Processing Factory* (Supervisor: Prof. Ping-Shun Chen)</p>
-      <p>GPA 3.7/4.0</p>
+      <p><strong>Bachelor in Industrial and Systems Engineering</br>Chung Yuan Christian University</strong> — Zhongli, Taiwan</p>
+      <ul>
+        <li>Capstone Project: *Demand Forecasting and Production Planning for a Food Processing Factory* (Supervisor: Prof. Ping-Shun Chen)</li>
+        <li>GPA 3.7/4.0</li>
+      </ul>
     </div>
   </div>
 
