@@ -16,20 +16,20 @@ header:
 
 ## Education
 **Master in Industrial Management, National Taiwan University of Science and Technology** — Taipei, Taiwan, Sep 2015 – Aug 2018  
-- Thesis: *Adjacent Difference Value (ADV) Method for Dynamic Segmentation in Time Series Data Search* (Supervisor: Prof. ___)  
-- Methods/Topics: NLP, Topic Modeling (LDA), Econometrics, Causal Inference  
-- Honors: GPA 3.8/4.0
+- Thesis: *Adjacent Difference Value (ADV) Method for Dynamic Segmentation in Time Series Data Search* (Supervisor: Prof. Chao-Lung Yang & Prof. Cheng-Jhe Lin)  
+- Methods/Topics: Time Series Segmentation, Dynamic Segmentation, Anomaly Detection, Dimensionality Reduction
+- GPA 3.8/4.0
 
-**MBachelor in Industrial and Systems Engineering, Chung Yuan Christian University** — Zhongli, Taiwan, Sep 2011 – Jun 2015  
-- Capstone Project: *Demand Forecasting and Production Planning for a Food Processing Factory* (Supervisor: Prof. ___)  
-- Methods/Topics: NLP, Topic Modeling (LDA), Econometrics, Causal Inference  
-- Honors: GPA 3.7/4.0
+**Bachelor in Industrial and Systems Engineering, Chung Yuan Christian University** — Zhongli, Taiwan, Sep 2011 – Jun 2015  
+- Capstone Project: *Demand Forecasting and Production Planning for a Food Processing Factory* (Supervisor: Prof. Ping-Shun Chen)  
+- Methods/Topics: Production Planning, Demand Forecasting  
+- GPA 3.7/4.0
 
-## Publications & Working Papers
+## Publications
 - *Title*, Authors, Venue/Year — (Working paper / Under review / Preprint).  
   - One-line contribution/novelty.
 
-## Research Experience & Projects
+## Working Experience
 **Research Associate — National Taiwan University (Economics)** — Taipei, YYYY–present  
 - Built a text-mining pipeline for 10-K MD&A misreporting detection; **~8–12% AUC gain** vs. baseline.  
 - Large-scale CFO datasets (SEC filings, census); automated QA and reproducible workflows.  
@@ -48,7 +48,4 @@ header:
 - Service: workshop/reading group organization, reviewing (if any).
 
 ## Languages
-Chinese (Native), English (___), German (A1/A2 …)
-
-## References
-Available upon request (2–3 academic referees can be provided).
+English (___), Mandarin (Native), German (A1/A2 …)
