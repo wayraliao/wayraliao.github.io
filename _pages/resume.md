@@ -8,14 +8,11 @@ toc_sticky: true
 classes: no-pager
 description: "Research-oriented data scientist focused on XAI, data quality, and misinformation detection."
 header:
-  image: /assets/images/og/resume_og.jpg
+  image: /assets/images/banner.png
 ---
 
 [Download PDF](/assets/cv/WeiJu_Liao_CV.pdf){: .btn .btn--primary .btn--large }
 [Contact](/contact/){: .btn }
-
-## Profile
-Research-oriented data scientist focusing on **Explainable AI (XAI)**, **data quality**, and **misinformation detection**. End-to-end experience from data acquisition and preprocessing to modeling, evaluation, and reproducible delivery.
 
 ## Core Skills
 - **Languages/Tools:** Python (pandas, scikit-learn, spaCy), Stata, SAS, Git, Jekyll
