@@ -15,15 +15,29 @@ header:
 [Contact](/contact/){: .btn }
 
 ## Education
-**Master in Industrial Management, National Taiwan University of Science and Technology** — Taipei, Taiwan, Sep 2015 – Aug 2018  
-- Thesis: *Adjacent Difference Value (ADV) Method for Dynamic Segmentation in Time Series Data Search* (Supervisor: Prof. Chao-Lung Yang & Prof. Cheng-Jhe Lin)  
-- Methods/Topics: Time Series Segmentation, Dynamic Segmentation, Anomaly Detection, Dimensionality Reduction
-- GPA 3.8/4.0
 
-**Bachelor in Industrial and Systems Engineering, Chung Yuan Christian University** — Zhongli, Taiwan, Sep 2011 – Jun 2015  
-- Capstone Project: *Demand Forecasting and Production Planning for a Food Processing Factory* (Supervisor: Prof. Ping-Shun Chen)  
-- Methods/Topics: Production Planning, Demand Forecasting  
-- GPA 3.7/4.0
+<div class="edu-list">
+
+  <div class="edu-item">
+    <div class="edu-date">Sep 2015 – Aug 2018</div>
+    <div class="edu-body">
+      <p><strong>Master in Industrial Management, National Taiwan University of Science and Technology</strong> — Taipei, Taiwan</p>
+      <p>Thesis: <em>Adjacent Difference Value (ADV) Method for Dynamic Segmentation in Time Series Data Search</em> (Supervisor: Prof. Prof. Chao-Lung Yang & Prof. Cheng-Jhe Lin)</p>
+      <p>Methods/Topics: Time Series Segmentation, Dynamic Segmentation, Anomaly Detection, Dimensionality Reduction</p>
+      <p>GPA 3.8/4.0</p>
+    </div>
+  </div>
+
+  <div class="edu-item">
+    <div class="edu-date">2017–2021</div>
+    <div class="edu-body">
+      <p><strong>Bachelor in Industrial and Systems Engineering, Chung Yuan Christian University</strong> — Zhongli, Taiwan</p>
+      <p>Capstone Project: *Demand Forecasting and Production Planning for a Food Processing Factory* (Supervisor: Prof. Ping-Shun Chen)</p>
+      <p>GPA 3.7/4.0</p>
+    </div>
+  </div>
+
+</div>
 
 ## Publications
 - *Title*, Authors, Venue/Year — (Working paper / Under review / Preprint).  
