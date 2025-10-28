@@ -15,15 +15,17 @@ header:
 
 ## Education
 
-<div class="edu-list">
+<div class="edu">
 
   <div class="edu-item">
     <div class="edu-date">Sep 2015 – Aug 2018</div>
     <div class="edu-body">
-      <p><strong>Master in Industrial Management</strong></p>
-      <p><strong>National Taiwan University of Science and Technology</strong> — Taipei, Taiwan</p>
+      <div class="edu-heading">
+        <p class="edu-degree"><strong>Master in Industrial Management</strong></p>
+        <p class="edu-school"><strong>National Taiwan University of Science and Technology</strong> — Taipei, Taiwan</p>
+      </div>
       <ul>
-        <li>Thesis: <em>Adjacent Difference Value (ADV) Method for Dynamic Segmentation in Time Series Data Search</em> (Supervisor: Prof. Prof. Chao-Lung Yang & Prof. Cheng-Jhe Lin)</li>
+        <li>Thesis: <em>Adjacent Difference Value (ADV) Method for Dynamic Segmentation in Time Series Data Search</em> (Supervisors: Prof. Chao-Lung Yang & Prof. Cheng-Jhe Lin)</li>
         <li>Methods/Topics: Time Series Segmentation, Dynamic Segmentation, Anomaly Detection, Dimensionality Reduction</li>
         <li>GPA 3.8/4.0</li>
       </ul>
@@ -33,16 +35,20 @@ header:
   <div class="edu-item">
     <div class="edu-date">Sep 2011 – Jun 2015</div>
     <div class="edu-body">
-      <p><strong>Bachelor in Industrial and Systems Engineering</strong></p>
-      <p><strong>Chung Yuan Christian University</strong> — Zhongli, Taiwan</p>
+      <div class="edu-heading">
+        <p class="edu-degree"><strong>Bachelor in Industrial and Systems Engineering</strong></p>
+        <p class="edu-school"><strong>Chung Yuan Christian University</strong> — Zhongli, Taiwan</p>
+      </div>
       <ul>
-        <li>Capstone Project: *Demand Forecasting and Production Planning for a Food Processing Factory* (Supervisor: Prof. Ping-Shun Chen)</li>
+        <li>Capstone Project: <em>Demand Forecasting and Production Planning for a Food Processing Factory</em> (Supervisor: Prof. Ping-Shun Chen)</li>
+        <li>Relevant Coursework: Machine Learning, Statistics, Econometrics</li>
         <li>GPA 3.7/4.0</li>
       </ul>
     </div>
   </div>
 
 </div>
+
 
 ## Publications
 - *Title*, Authors, Venue/Year — (Working paper / Under review / Preprint).  

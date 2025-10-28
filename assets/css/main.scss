@@ -7,15 +7,24 @@
 /* 你自己的樣式覆蓋可以寫在這下方 */
 // 例如：.page__content h2 { margin-top: 2rem; }
 
-/* --- Education two-column (date left) with two-line heading and bullets --- */
-.edu-list { display: grid; gap: 1rem 1.25rem; }
-.edu-item { display: grid; grid-template-columns: 140px 1fr; gap: 0.5rem 1.25rem; align-items: start; }
+/* --- Education block: date left, two-line heading, bullets --- */
+.edu { display: grid; gap: 1.25rem 1.25rem; }
+.edu-item {
+  display: grid;
+  grid-template-columns: 140px 1fr;
+  gap: 0.6rem 1.25rem;
+  align-items: start;
+}
 .edu-date { font-weight: 700; white-space: nowrap; }
-.edu-body p { margin: 0 0 .25rem 0; }
-.edu-body ul { margin: 0.25rem 0 0 1.1rem; }
+.edu-body { margin: 0; }
+.edu-heading p { margin: 0; }
+.edu-degree { font-weight: 700; }
+.edu-school { margin-top: .15rem; }
+.edu-body ul { margin: .4rem 0 0 1.1rem; }
 .edu-body li { margin: .2rem 0; }
 
-/* Mobile stacks */
+/* Mobile: stack into one column */
 @media (max-width: 640px) {
   .edu-item { grid-template-columns: 1fr; }
+  .edu-date { margin-bottom: .2rem; }
 }
