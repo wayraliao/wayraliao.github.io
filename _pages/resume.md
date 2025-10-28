@@ -3,8 +3,6 @@ title: "Resume"
 permalink: /resume/
 layout: single
 author_profile: true
-toc: true
-toc_sticky: true
 classes: no-pager
 description: "Research-oriented data scientist focused on XAI, data quality, and misinformation detection."
 header:
@@ -48,7 +46,6 @@ header:
   </div>
 
 </div>
-
 
 ## Publications
 - *Title*, Authors, Venue/Year — (Working paper / Under review / Preprint).  
