@@ -26,7 +26,6 @@ Sep 2011 – Jun 2015
 **Bachelor in Industrial and Systems Engineering**  
 **Chung Yuan Christian University** — Taoyuan, Taiwan  
 - Capstone Project: *Demand Forecasting and Production Planning for a Food Processing Factory* (Supervisor: Prof. Ping-Shun Chen)
-- Relevant Coursework: Machine Learning, Statistics, Econometrics
 - GPA 3.7/4.0
 
 ## Publications
