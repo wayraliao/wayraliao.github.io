@@ -7,24 +7,24 @@
 /* 你自己的樣式覆蓋可以寫在這下方 */
 // 例如：.page__content h2 { margin-top: 2rem; }
 
-/* --- Education block: date left, two-line heading, bullets --- */
+/* --- Education block: date left, two-line heading, bullets (robust) --- */
 .edu { display: grid; gap: 1.25rem 1.25rem; }
 .edu-item {
   display: grid;
-  grid-template-columns: 140px 1fr;
+  grid-template-columns: minmax(110px, 150px) 1fr; /* 左欄彈性寬度，避免擠壓重疊 */
   gap: 0.6rem 1.25rem;
   align-items: start;
 }
-.edu-date { font-weight: 700; white-space: nowrap; }
-.edu-body { margin: 0; }
-.edu-heading p { margin: 0; }
+.edu-date { font-weight: 700; white-space: nowrap; line-height: 1.35; }
+.edu-heading p { margin: 0; line-height: 1.35; }
 .edu-degree { font-weight: 700; }
 .edu-school { margin-top: .15rem; }
-.edu-body ul { margin: .4rem 0 0 1.1rem; }
-.edu-body li { margin: .2rem 0; }
+.edu-body ul { margin: .45rem 0 0 1.1rem; padding: 0; }
+.edu-body li { margin: .22rem 0; }
+.edu, .edu-item, .edu-body { overflow-wrap: anywhere; }
 
-/* Mobile: stack into one column */
-@media (max-width: 640px) {
+/* 手機直欄堆疊（避免窄螢幕擠壓） */
+@media (max-width: 720px) {
   .edu-item { grid-template-columns: 1fr; }
   .edu-date { margin-bottom: .2rem; }
 }
