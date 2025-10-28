@@ -17,14 +17,14 @@ header:
 
 Sep 2015 – Aug 2018  
 **Master in Industrial Management**  
-**National Taiwan University of Science and Technology — Taipei, Taiwan**  
+**National Taiwan University of Science and Technology** — Taipei, Taiwan  
 - Thesis: *Adjacent Difference Value (ADV) Method for Dynamic Segmentation in Time Series Data Search* (Supervisors: Prof. Chao-Lung Yang & Prof. Cheng-Jhe Lin)
 - Methods/Topics: Time Series Segmentation, Dynamic Segmentation, Anomaly Detection, Dimensionality Reduction
 - GPA 3.8/4.0
 
 Sep 2011 – Jun 2015  
 **Bachelor in Industrial and Systems Engineering**  
-**Chung Yuan Christian University — Zhongli, Taiwan**  
+**Chung Yuan Christian University** — Taoyuan, Taiwan  
 - Capstone Project: *Demand Forecasting and Production Planning for a Food Processing Factory* (Supervisor: Prof. Ping-Shun Chen)
 - Relevant Coursework: Machine Learning, Statistics, Econometrics
 - GPA 3.7/4.0
